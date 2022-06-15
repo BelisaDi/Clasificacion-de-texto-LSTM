@@ -1,0 +1,2 @@
+# Clasificacion-de-texto-LSTM
+Proyecto del curso Introducción al Procesamiento del Lenguaje Natural. Se realiza la clasificación de una base de datos de reseñas en categorías de 'muy negativo' a 'muy positivo' usando redes LSTM. De forma análoga, se realiza un proceso similar al realizar un etiquetado palabra por palabra de un pequeño porcentaje de la base de datos. En esto último se realiza un proceso de fine-tuning al traspasar los pesos de otros modelos al de la red. Finalmente, se puede visualizar el resultado.
